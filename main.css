@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(HindSiliguri-Regular.ttf) format('ttf');
+  unicode-range: U+0964-0965, U+0980-09FE, U+1CF7, U+1CFA, U+200C-200D, U+20B9, U+25CC;
+}
