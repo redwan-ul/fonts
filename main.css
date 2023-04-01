@@ -1,0 +1,6 @@
+@font-face {
+  font-family: ShorifSandwip;
+  src: url("sandwip.woff") format("woff2"),
+       url("sandwip.woff2") format("woff");
+  font-display: swap;
+}
